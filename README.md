@@ -28,7 +28,7 @@ REST API integration using Flask
 Lightweight and scalable design
 Supports multiple events on the same day
 
-#System Architecture
+# System Architecture
 
 contact.json
 ↓
