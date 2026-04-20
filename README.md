@@ -50,26 +50,32 @@ JSON (Data Storage)
 
 
 #Project Structure
+
 src/
 │
 ├── api.py                 # Flask API entry point
 ├── main.py               # Scheduler trigger
 │
+
 ├── config/
 │   └── openai_config.py / whatsapp_config.py
 │
+
 ├── data/
 │   ├── contact.json      # Event data
 │   └── sent_log.json     # Logs
 │
+
 ├── services/
 │   ├── ai_service.py     # AI message generation
 │   ├── email_service.py  # Email sending logic
 │   └── event_service.py  # Event processing
 │
+
 ├── utils/
 │   └── date_utils.py     # Date matching logic
 │
+
 └── scheduler/
     └── job_scheduler.py  # Automation scheduler
 
