@@ -1,10 +1,12 @@
 # AI Event Reminder
 #Overview
+
 This project is an AI-powered automated reminder system that detects important events such as birthdays and anniversaries and sends personalized greeting messages automatically via email.
 The system uses a language model to generate dynamic, human-like messages instead of static templates, improving personalization and user experience.
 
 ##Problem Statement
 People often:
+
 Forget important events like birthdays and anniversaries
 Send generic or repetitive messages
 Manually manage reminders and notifications
