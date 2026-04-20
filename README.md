@@ -43,9 +43,13 @@ Recipient receives email
 # Technologies Used
 
 Python
+
 Flask (REST API)
+
 Hugging Face Transformers (SmolLM2 Model)
+
 SMTP (Email Automation)
+
 JSON (Data Storage)
 
 
