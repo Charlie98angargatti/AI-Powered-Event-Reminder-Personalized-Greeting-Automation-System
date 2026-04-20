@@ -82,7 +82,11 @@ src/
 
 #Workflow
 Load contact data from JSON
+
 Check if today's date matches any event
+
 Generate a personalized message using AI
+
 Send the message via email
+
 Repeat daily via scheduler or API trigger
