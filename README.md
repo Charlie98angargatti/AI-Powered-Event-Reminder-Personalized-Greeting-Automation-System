@@ -33,15 +33,19 @@ Supports multiple events on the same day
 contact.json
 
 ↓
+
 Event Detection (event_service.py)
 
 ↓
+
 AI Message Generation (ai_service.py)
 
 ↓
+
 Email Service (email_service.py)
 
 ↓
+
 Recipient receives email
 
 # Technologies Used
