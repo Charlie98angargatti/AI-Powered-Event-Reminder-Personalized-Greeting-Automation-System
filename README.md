@@ -17,7 +17,7 @@ This project automates the entire process by:
 
 Detecting events from stored data
 Generating personalized greetings using AI
-Sending emails automatically without manual intervention , [ actaully i am planning to implement to whatsapp it's inprogress] 
+Sending emails automatically without manual intervention ,  [actaully i am planning to implement to whatsapp it's inprogress] 
 
 #Key Features
 
