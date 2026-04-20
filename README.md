@@ -1,17 +1,17 @@
 # AI Event Reminder
-#Overview
+# Overview
 
 This project is an AI-powered automated reminder system that detects important events such as birthdays and anniversaries and sends personalized greeting messages automatically via email.
 The system uses a language model to generate dynamic, human-like messages instead of static templates, improving personalization and user experience.
 
-##Problem Statement
+# Problem Statement
 People often:
 
 Forget important events like birthdays and anniversaries
 Send generic or repetitive messages
 Manually manage reminders and notifications
 
-Solution
+# Solution
 
 This project automates the entire process by:
 
@@ -19,7 +19,7 @@ Detecting events from stored data
 Generating personalized greetings using AI
 Sending emails automatically without manual intervention ,  [actaully i am planning to implement to whatsapp it's inprogress] 
 
-#Key Features
+# Key Features
 
 Event detection based on date
 AI-generated personalized messages
@@ -40,7 +40,7 @@ Email Service (email_service.py)
 ↓
 Recipient receives email
 
-#Technologies Used
+# Technologies Used
 
 Python
 Flask (REST API)
@@ -49,7 +49,7 @@ SMTP (Email Automation)
 JSON (Data Storage)
 
 
-#Project Structure
+# Project Structure
 
 src/
 │
@@ -80,7 +80,7 @@ src/
     └── job_scheduler.py  # Automation scheduler
 
 
-#Workflow
+# Workflow
 Load contact data from JSON
 
 Check if today's date matches any event
